@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:hapticFeedbackEnabled="false"
+    android:soundEffectsEnabled="false">
+
+
+
+    <TableRow
+        android:id="@+id/table"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:splitMotionEvents="false"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp">
+
+
+        <TextView
+            android:id="@+id/symbol"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:layout_column="1"
+            android:layout_marginRight="5dp"
+            android:gravity="start"
+            android:paddingLeft="2dp"
+            android:text="HUMNT"
+            android:textSize="13sp" />
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="230dp"
+            android:layout_height="wrap_content"
+            android:layout_column="2"
+            android:text="Introduction to Film Art"
+            android:textAlignment="viewStart"
+            android:textSize="13sp" />
+
+        <TextView
+            android:id="@+id/code"
+            android:layout_width="30dp"
+            android:layout_height="wrap_content"
+            android:layout_column="3"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="2200"
+            android:textAlignment="textEnd"
+            android:textSize="13sp" />
+
+        <TextView
+            android:id="@+id/ssHum"
+            android:layout_width="24dp"
+            android:layout_height="wrap_content"
+            android:layout_column="4"
+            android:layout_marginRight="5dp"
+            android:ellipsize="end"
+            android:gravity="left"
+            android:text="N/A"
+            android:textSize="13sp" />
+
+        <TextView
+            android:id="@+id/westerneastern"
+            android:layout_width="30dp"
+            android:layout_height="wrap_content"
+            android:layout_column="5"
+            android:layout_gravity="end"
+            android:layout_marginRight="8dp"
+            android:text="WCC"
+            android:textSize="13sp" />
+
+    </TableRow>
+
+
+</TableLayout>
