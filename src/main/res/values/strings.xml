@@ -14,10 +14,10 @@
         degree. You must complete third course in a sequence. This can be completed either in high school at, College of DuPage, or at UIUC.
         The foreign language courses do not count as credits for either the AES or the BS degrees.
 </string>
-    <string name="Disclaimer">Disclaimer: All of these guides are unofficial and are just made to a helpful resource.\n\n
+    <string name="Disclaimer">Disclaimer: All of these guides are unofficial and are just made to be a helpful resource.\n\n
     All data was pulled from <a href="Transferology.com">Transferology</a> and College of DuPage\&#39;s website.</string>
     <string name="Counselors_Emails">Counselors Emails:\n Jaime: petroel2@illinois.edu\n Cheryl: baunbach@cod.edu\n Hanna: morsch2@illinois.edu\n Jessica: dyrekj@cod.edu</string>
-    <string name="myEmail">My Emails feel free to contact me with any questions: \n&#8226;Beckwithr65@dupage.edu\n &#8226;rjbeckwith55@gmail.com</string>
+    <string name="myEmail">My Emails, feel free to contact me with any questions: \n&#8226;Beckwithr65@dupage.edu\n&#8226;rjbeckwith55@gmail.com</string>
     <string name="GPA">GPA requirements:\n &#8226;Computer Science: 3.9\n &#8226;Mechanical Engineering: 3.8\n &#8226;Electrical Engineering: 3.8</string>
     <string name="selectAll">All Gen Ed Classes that Transfer</string>
     <string name="selectAllSS">All Social Sciences</string>
@@ -29,7 +29,7 @@
     <string name="selectTransfer">Classes that DO transfer</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="action_example">Example action</string>
+    <string name="action_example">Contact</string>
     <string name="action_settings">Settings</string>
 
 </resources>
