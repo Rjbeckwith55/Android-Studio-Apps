@@ -62,7 +62,7 @@
 
         <TextView
             android:id="@+id/westerneastern"
-            android:layout_width="30dp"
+            android:layout_width="@dimen/text_view_width"
             android:layout_height="wrap_content"
             android:layout_column="5"
             android:layout_gravity="end"

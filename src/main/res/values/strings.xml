@@ -18,8 +18,8 @@
     All data was pulled from Transferology, University of Illinois Website, and College of DuPage\&#39;s website.</string>
     <string name="Counselors_Emails">Counselors Emails:\n Jaime: petroel2@illinois.edu\n Cheryl: baunbach@cod.edu\n Hanna: morsch2@illinois.edu\n Jessica: dyrekj@cod.edu</string>
     <string name="myEmail">My Emails, feel free to contact me with any questions or if you see any outdated information on this app: \n&#8226;Beckwithr65@dupage.edu\n&#8226;rjbeckwith55@gmail.com</string>
-    <string name="GPA">GPA averages(Fall 2017 Admissions):<![CDATA[\n
-        •Mechanical Engineering: 3.9\n
+    <string name="GPA"><![CDATA[GPA averages(Fall 2017 Admissions):\n
+        •Mechanical Engineering: 3.9 — \"At least it can\'t get much higher\"\n
         •Aerospace Engineering: 3.8\n
         •Computer Science: 3.8 — Likely to go up\n
         •Civil Engineering: 3.7\n
@@ -30,7 +30,7 @@
         •Physics, Engineering: 3.7\n
         •Agricultural & Biological Engineering: 3.6\n
         •Engineering Mechanics: 3.6\n
-        •Systems Engineering & Design: 3.6
+        •Systems Engineering & Design: 3.5
         ]]></string>
     <string name="selectAll">All Gen Ed Classes that Transfer</string>
     <string name="selectAllSS">All Social Sciences</string>
