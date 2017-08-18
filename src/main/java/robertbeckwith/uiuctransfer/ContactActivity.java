@@ -40,6 +40,8 @@ public class ContactActivity extends MainActivity{
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        //this.getWindow().getDecorView().findViewById(android.R.id.content);
+        findViewById(android.R.id.content);
             setContentView(R.layout.activity_contact);
 
 
